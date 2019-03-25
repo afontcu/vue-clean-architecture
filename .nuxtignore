@@ -1,0 +1,6 @@
+web/pages/**/components/
+web/pages/**/containers/
+web/pages/**/store/
+web/pages/**/api/
+web/pages/**/tests/
+web/pages/**/utils/
