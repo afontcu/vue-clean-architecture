@@ -3,6 +3,8 @@ import pkg from './package'
 export default {
   mode: 'spa',
 
+  srcDir: 'web',
+
   /*
    ** Headers of the page
    */
